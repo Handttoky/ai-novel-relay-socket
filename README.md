@@ -12,7 +12,7 @@
 * **세션 관리**: 사용자 입력 시마다 선택 기회(Choice Limit) 차감 및 종료 시 엔딩 시퀀스 전환
 
 ## 💻 Tech Stack
-* **Language**: Python 3.x
+* **Language**: Python 3.10.5
 * **GUI Framework**: PyQt6
 * **AI Engine**: Google Gemini Pro API
 * **Network**: Socket (TCP/IP)
